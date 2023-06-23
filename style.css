@@ -141,4 +141,8 @@ a {
   .car-desc {
     padding-right: 2.4rem;
   }
+
+  .car-model {
+    font-size: 4rem;
+  }
 }
