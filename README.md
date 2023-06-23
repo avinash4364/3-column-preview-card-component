@@ -24,6 +24,8 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+![127 0 0 1_5500_ (2)](https://github.com/avinash4364/3-column-preview-card-component/assets/24203618/ead6d617-bd4b-4194-aa4d-e531c39066a0)
+![127 0 0 1_5500_ (3)](https://github.com/avinash4364/3-column-preview-card-component/assets/24203618/41ad3991-9a1c-494d-b051-f57f4ce64602)
 
 ### Links
 
